@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mishra-suyash/mishra-suyash/output/main.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mishra-suyash/mishra-suyash/output/snake.svg" alt="Snake animation" />
 
 ###
